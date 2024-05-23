@@ -16,7 +16,7 @@ const Testimonial = () => {
                 height={80}
                 alt="profile"
               />
-              <h2 className="text-gray-500 font-black text-[20px]">Zanny Stone</h2>
+              <h2 className="text-gray-500 font-black text-[20px]">Sourabh kumar</h2>
               <p>CEO & Founder </p>
               <Image
                 className="inline-block py-2"
